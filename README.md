@@ -1,5 +1,5 @@
 # 💫 About Me:
-- iOS Developer | Swift | UIKIT | SwiftUI  <br> - Experience of 7 months
+- iOS Developer | Swift | UIKIT | SwiftUI  
 
 
 # 💻 Tech Stack:
